@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Assistente Jurídico1</string>
+  <string name="title_activity_main">Assistente Jurídico1</string>
+  <string name="custom_url_scheme">brcommaikoncaldeiraassistentejuridico</string>
+</resources>
